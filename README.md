@@ -1,4 +1,4 @@
-# 📦orkBox - Sistema de Gestão Patrimonial
+# 📦WorkBox - Sistema de Gestão Patrimonial
 
 ## Objetivo do Projeto🎯
 
